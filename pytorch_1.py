@@ -4,3 +4,7 @@
 #Globoko učenje pa za nestukturirane podatke
 
 #Nevronsek mreže
+
+
+
+#  https://www.youtube.com/watch?v=V_xro1bcAuA&t=2602s
