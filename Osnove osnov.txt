@@ -1,0 +1,8 @@
+ROW = VRSTICA
+
+COLUMN = Stolpec
+
+tensor(2,3) = [[X, X, X],
+	       [X, X, X]]
+	       
+V 2D tensorju je dim 0 vrstica, Stolpec pa je dim 1.
