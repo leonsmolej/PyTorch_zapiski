@@ -31,3 +31,4 @@ Narejeno s Pythonom 3.12 in PyTorchem 2.14.1. GPU ni nujen, zvezek deluje tudi n
 
 Nekatere slike so iz teh virov in pripadajo svojim avtorjem.
 
+V prihodnosti bodo verjetno dodana še druga poglavja povezana z pytrorch (klasifikacija...)
