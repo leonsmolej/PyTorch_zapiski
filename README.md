@@ -31,4 +31,3 @@ Narejeno s Pythonom 3.12 in PyTorchem 2.14.1. GPU ni nujen, zvezek deluje tudi n
 
 Nekatere slike so iz teh virov in pripadajo svojim avtorjem.
 
-aadadas
