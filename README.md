@@ -30,3 +30,5 @@ Narejeno s Pythonom 3.12 in PyTorchem 2.14.1. GPU ni nujen, zvezek deluje tudi n
 - [Video: Andrej P. Škraba](https://www.youtube.com/watch?v=woSNI-aejnU)
 
 Nekatere slike so iz teh virov in pripadajo svojim avtorjem.
+
+aadadas
