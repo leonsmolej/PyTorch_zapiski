@@ -25,8 +25,8 @@ Narejeno s Pythonom 3.12 in PyTorchem 2.14.1. GPU ni nujen, zvezek deluje tudi n
 ## Viri
 
 - [PyTorch dokumentacija](https://docs.pytorch.org/docs/2.14/index.html)
-- [Predavanje 1: Zachary Huang](https://www.youtube.com/watch?v=r1bquDz5GGA)
-- [Predavanje 2: Daniel Bourke](https://www.youtube.com/watch?v=V_xro1bcAuA)
+- [Predavanje 1: Daniel Bourke](https://www.youtube.com/watch?v=V_xro1bcAuA)
+- [Predavanje 2: Zachary Huang](https://www.youtube.com/watch?v=r1bquDz5GGA)
 - [Video: Andrej P. Škraba](https://www.youtube.com/watch?v=woSNI-aejnU)
 
 Nekatere slike so iz teh virov in pripadajo svojim avtorjem.
